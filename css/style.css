@@ -1,0 +1,114 @@
+body{
+    font-family: Tahoma;
+    font-size: 14px;
+    color: black;
+    width: 1500px;
+}
+.phantren{
+    width: 1500px;
+}
+.menu{
+    text-align: center;
+    background-color: rgb(204, 6, 6);
+    height: 70px;
+    line-height: 70px;
+}
+.menu ul{
+    margin-left: -50px;
+}
+.menu ul li{
+list-style-type: none;
+display:  inline-block;
+
+
+}
+
+.menu ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 600;
+    padding: 25px 25px;
+    color: white;
+
+}
+
+.menu ul li a:hover{
+    color: rgb(204, 6, 6);
+    background-color: white;
+}
+.menu ul li a:active{
+    color: rgb(204, 6, 6);
+    background-color: rgb(255, 255, 255);
+
+}
+
+.phantren img{
+    margin: 0px auto;
+    display: block;
+
+}
+.phangiua{
+    padding-top: 50px;
+}
+.noidung{
+    color: rgb(155, 155, 155);
+}
+.bentrai{
+    width: 600px;
+    float: left;
+
+
+}
+ img{
+    border-radius: 3%;
+}
+.bentrai img{
+    width: 600px;
+    height: 400px;
+    margin-bottom: 20px;
+}
+.bentrai img{
+    width: 600px;
+    height: 400px;
+}
+.bentrai span{
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+
+}
+ p{
+font-size: 16px;
+line-height: 1.5;
+}
+.benphai{
+    float: left;
+    margin-left: 50px;
+    width: 850px;
+
+}
+.benphai img{
+    float: left;
+    width: 130px;
+    height: 130px;
+    margin-right: 20px;
+}
+.vanban{
+    float: left;
+    width: 700px;
+    margin-top: -20px;
+   
+}
+.vanban h2{
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+}
+.tinle{
+    float: left;
+    border-bottom: 2px dashed #b1154a;
+    margin-bottom: 15px;
+    height: 150px;
+
+}
